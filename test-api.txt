@@ -1,0 +1,9 @@
+Client ID
+XKjkKAAFiYFmTL-G0MPcAw
+
+API Key
+w5JLzY43ImVzeuEoa__myfuZPYHbTOgM54Iqm1c4ZBb-4fIEgT2FxbicWbhJ4Dq7fQJo78OThiNVbOaQ7ZlmwNKxvdeye8rydFTGxOC6KKEWEyZmahn2T6P3uEhKX3Yx
+
+
+import { createAppContainer } from 'react-navigation';
+import { createStackNavigator } from 'react-navigation-stack';
